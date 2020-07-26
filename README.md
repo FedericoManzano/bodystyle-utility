@@ -9,14 +9,14 @@
 En este repositorio se separan los utilitarios de la librería [bodystyle]() para disponer unicamente del apartado de utilitarios de la librería.
 
 ## Contenido 
-- [Descarga](https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes)
-- [Bordes](https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes)
+- [Descarga](https://github.com/FedericoManzano/utility-bodystyle#descarga)
+- [Bordes](https://github.com/FedericoManzano/utility-bodystyle#bordes)
 - [Margin](https://bodystyle.000webhostapp.com/inicio/#/documentacion/margin)
 - [Medidas](https://bodystyle.000webhostapp.com/inicio/#/documentacion/medidas)
 - [Overflow](https://bodystyle.000webhostapp.com/inicio/#/documentacion/overflow)
 - [Texto](https://bodystyle.000webhostapp.com/inicio/#/documentacion/texto)
 - [Sass](https://bodystyle.000webhostapp.com/inicio/#/documentacion/sass)
-- [Licencia](https://bodystyle.000webhostapp.com/inicio/#/documentacion/licencia)
+- [Licencia](https://github.com/FedericoManzano/utility-bodystyle#licencia)
 
 ## Descarga
 

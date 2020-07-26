@@ -30,7 +30,59 @@ Podemos agregar el CDN de los utilitarios directamente en la cabecera del html p
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Link con el CDN de los estilos css  -->
-    <link rel="stylesheet" href="https://rawcdn.githack.com/FedericoManzano/bodystyle/58a25e885718d0b2db6675c502ce6a41a45f373c/dist/css/bodystyle.min.css">
+    <link rel="stylesheet" href="https://rawcdn.githack.com/FedericoManzano/utility-bodystyle/5776691724b2bbbd985af06c57bab9541780aa60/dist/css/utulitarios.min.css">
 
 </head>
 ```
+
+O podemos añadir a los utilitarios como una dependencia de nuestr proyecto a través de los gestores de paquetes.
+
+```txt
+npm i body-utility
+yarn add body-utility
+```
+
+Si lo que queremos es el código fuente de este repositorio lo podemos hacer con el comando
+
+```txt
+git clone https://github.com/FedericoManzano/utility-bodystyle
+```
+
+## Bordes
+
+Las clases CSS correspondientes a los bordes comienzan con `.bor-` y luego definimos si queremos bordes con radio o bordes pintados de algún color.
+
+### Clase CSS de ejemplo
+```css
+.box-ej {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+```
+
+### Ejemplos de radios
+```html
+<!-- Bordes en (PX) -->
+<div class="box-ej bor-rad-10"></div>
+<!-- Bordes en (%) -->
+<div class="box-ej bor-rad-por-10"></div> <!-- 1 A 50 %-->
+<!-- Figura redonda -->
+<div class="box-ej bor-rad-por-50"></div>
+<!-- Figura  redonda a los lados -->
+<div class="box-ej bor-pill"></div>
+```
+
+### Ejemplos pintados
+
+```html
+<!-- Bordes en (PX) -->
+<div class="box-ej bor-10"></div>
+<div class="box-ej bor-10"></div>
+<div class="box-ej bor-50"></div>
+```
+
+Para más información ver la documentación: [https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes](https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes)
+
+## Margin 
+

@@ -1,0 +1,32 @@
+{
+  "name": "body-utility",
+  "version": "3.5.0",
+  "description": "Utilitarios de la librería bodystyle para el desarrollo de la interfaz de usuario ui.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoManzano/utility-bodystyle.git"
+  },
+  "files": [
+    "dist/{css,js}/*.{css,js,map}",
+    "sass/**/*.scss"
+  ],
+  "keywords": [
+    "utylity",
+    "css",
+    "sass",
+    "text",
+    "overflow",
+    "padding-auto",
+    "margin-auto"
+  ],
+  "author": "Federico Manzano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FedericoManzano/utility-bodystyle/issues"
+  },
+  "homepage": "https://github.com/FedericoManzano/utility-bodystyle#readme"
+}

@@ -9,14 +9,14 @@
 En este repositorio se separan los utilitarios de la librería [bodystyle]() para disponer unicamente del apartado de utilitarios de la librería.
 
 ## Contenido 
-- [Descarga](https://github.com/FedericoManzano/utility-bodystyle#descarga)
-- [Bordes](https://github.com/FedericoManzano/utility-bodystyle#bordes)
+- [Descarga](https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes)
+- [Bordes](https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes)
 - [Margin](https://bodystyle.000webhostapp.com/inicio/#/documentacion/margin)
 - [Medidas](https://bodystyle.000webhostapp.com/inicio/#/documentacion/medidas)
 - [Overflow](https://bodystyle.000webhostapp.com/inicio/#/documentacion/overflow)
 - [Texto](https://bodystyle.000webhostapp.com/inicio/#/documentacion/texto)
 - [Sass](https://bodystyle.000webhostapp.com/inicio/#/documentacion/sass)
-
+- [Licencia](https://bodystyle.000webhostapp.com/inicio/#/documentacion/licencia)
 
 ## Descarga
 
@@ -84,5 +84,11 @@ Las clases CSS correspondientes a los bordes comienzan con `.bor-` y luego defin
 
 Para más información ver la documentación: [https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes](https://bodystyle.000webhostapp.com/inicio/#/documentacion/bordes)
 
-## Margin 
+El resto de los elementos podemos acceder desde [contenido](https://github.com/FedericoManzano/utility-bodystyle#contenido) a la documentación oficial.
+
+## Licencia
+
+MIT (c) 2020 Bodystyle [Info](https://github.com/FedericoManzano/utility-bodystyle/blob/master/LICENSE)
+
+
 
